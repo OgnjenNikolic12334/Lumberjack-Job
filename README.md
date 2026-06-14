@@ -54,4 +54,5 @@ You can easily configure:
 **ZX Scripts**
 Discord: https://discord.gg/akkgn8crZy 
 
-Ako želiš profesionalniji Tebex/GitHub opis sa slikama, GIF sekcijom i instalacijom, mogu da ti napravim kompletan README.md.
+
+
