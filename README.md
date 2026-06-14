@@ -1,4 +1,4 @@
-Možeš da staviš nešto ovako za GitHub release:
+
 
 # ZX-Lumberjack
 
